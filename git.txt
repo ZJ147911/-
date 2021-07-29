@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first"
+git branch -M main
+git remote add origin git@github.com:ZJ147911/Flip-digital-stopwatch.git
+git push -u origin main
